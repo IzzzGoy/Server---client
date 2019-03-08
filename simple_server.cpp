@@ -51,7 +51,7 @@ main()
 
     while(1)
     {
-        std::cout << "We on worked" << std::endl;
+        //std::cout << "We on worked" << std::endl;
 
         for(size_t i = 0; i < 4;i++)
         {
